@@ -91,7 +91,8 @@ jobs:
   summary: |
     | &ensp;时间&ensp;                | &ensp;公司&ensp;              | &ensp;职位&ensp;              | 
     | ------------             | -------------      | ------------------ | 
-    | &ensp;2023年5月 - 现在&ensp;          | &ensp;金蝶中国&ensp;          | &ensp;架构设计&ensp; | 
+    | &ensp;2023年11月 - 现在&ensp;          | &ensp;港交所科技 (HKEX)&ensp;          | &ensp;架构设计&ensp; | 
+    | &ensp;2023年5月 - 2023年11月&ensp;          | &ensp;金蝶中国&ensp;          | &ensp;架构设计&ensp; | 
     | &ensp;2012年3月 - 2022年12月&ensp;      | &ensp;穆迪分析&ensp;    | &ensp;高级软件工程师/架构师/开发经理    | 
     | &ensp;2006年9月 - 2012年3月&ensp;       | &ensp;晨星资讯&ensp;          | &ensp;软件工程师/开发组长&ensp;     |
 
@@ -99,7 +100,24 @@ experiences:
   title: 项目经验
   info:
     - role: 架构设计
-      time: 2023年5月 - 现在
+      time: 2023年11月 - 现在
+      company: 港交所科技 (HKEX)
+      details: |
+        项目名称: Enterprise Data Platform (企业数据平台)
+
+        设计和构建港交所下一代企业数据平台，实现交易所数据的统一访问、数据治理和数据分发。
+
+        项目职责:
+          - 企业数据平台整体架构设计。
+          - 主导核心数据管道组件的设计和开发。
+          - 建立数据治理标准和质量指标。
+          - 协调跨团队的数据集成和数据迁移工作。
+
+        技术栈:
+
+          AWS Glue, AWS Lake Formation, AWS EKS, Terraform, HCS DataArts, HCS MRS, HCS CCE
+    - role: 架构设计
+      time: 2023年5月 - 2023年11月
       company: 金蝶中国
       details: |
         项目名称: 小蝶+
@@ -217,7 +235,7 @@ skills:
     - name: AWS
       level: 90%
     - name: Python
-      level: 80%
+      level: 98%
     - name: Scala
       level: 75%
     - name: Javascript & React & Nodejs

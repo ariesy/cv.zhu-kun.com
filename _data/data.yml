@@ -91,26 +91,34 @@ jobs:
   summary: |
     | Time                | Company        | Position              | 
     | ------------        | ------------- | ------------------ | 
-    | May, 2023 - present | Kingdee China    | Software Architect | 
+    | Nov, 2023 - present | HKEX    | Software Architect | 
+    | May, 2023 - Nov, 2023 | Kingdee China    | Software Architect | 
     | Mar, 2012 - Nov, 2022       | Moody's Analytics    | Senior Software Engineer/Architect/Software Manager    | 
     | Sept, 2006 - Mar, 2012       | Morningstar          | Software Engineer/Team Leader     |
 
 experiences:
   title: Projects
   info:
-    - role: Softwre Architect
-      time: May 2023 - Present
+    - role: Software Architect
+      time: May 2023 - Nov 2023
       company: Kingdee China
+    - role: Software Architect
+      time: Nov 2023 - Present
+      company: HKEX (Hong Kong Exchanges and Clearing)
       details: |
-        Project Name: Xiaodie+
+        Project Name: Enterprise Data Platform
 
-        Design the architecture of a new product called Xiaodie+, which is a next generation product with Cloud native and AI native. Implement core modules.
+        Design and build HKEX next generation Enterprise Data Platform, enabling unified data access, governance, and distribution across the exchange.
 
         Project Responsibilities:
-          - Overall architecture design and core module design, including capital module, account receivable/payable module, business operation analysis, industry peer comparison, smart accouting document, and auto tax filing modules.
-          - Take charge of refactoring old SCM system, enabling the new product to leverage existing business logic to the fullest extent possible.
-          - Design deployement architect.
-          - Establish code standards and unit testing criteria.
+          - Overall architecture design of the Enterprise Data Platform.
+          - Lead the design and development of core data pipeline components.
+          - Establish data governance standards and quality metrics.
+          - Coordinate cross-team data integration and migration.
+
+        Tech Stack:
+
+          AWS Glue, AWS Lake Formation, AWS EKS, Terraform, HCS DataArts, HCS MRS, HCS CCE
 
     - role: Associate Director Senior Software Architect
       time: April 2021 - Dec 2022
@@ -219,7 +227,7 @@ skills:
     - name: AWS
       level: 90%
     - name: Python
-      level: 80%
+      level: 98%
     - name: Scala
       level: 75%
     - name: Javascript & React & Nodejs
