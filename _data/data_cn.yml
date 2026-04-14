@@ -91,7 +91,7 @@ jobs:
   summary: |
     | &ensp;时间&ensp;                | &ensp;公司&ensp;              | &ensp;职位&ensp;              | 
     | ------------             | -------------      | ------------------ | 
-    | &ensp;2023年11月 - 现在&ensp;          | &ensp;港交所科技 (HKEX)&ensp;          | &ensp;架构设计&ensp; | 
+    | &ensp;2023年11月 - 现在&ensp;          | &ensp;港交所科技 (HKEX)&ensp;          | &ensp;高级数据工程师 (AVP)&ensp; | 
     | &ensp;2023年5月 - 2023年11月&ensp;          | &ensp;金蝶中国&ensp;          | &ensp;架构设计&ensp; | 
     | &ensp;2012年3月 - 2022年12月&ensp;      | &ensp;穆迪分析&ensp;    | &ensp;高级软件工程师/架构师/开发经理    | 
     | &ensp;2006年9月 - 2012年3月&ensp;       | &ensp;晨星资讯&ensp;          | &ensp;软件工程师/开发组长&ensp;     |
@@ -99,7 +99,7 @@ jobs:
 experiences:
   title: 项目经验
   info:
-    - role: 架构设计
+    - role: 高级数据工程师 (AVP)
       time: 2023年11月 - 现在
       company: 港交所科技 (HKEX)
       details: |

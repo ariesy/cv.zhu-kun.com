@@ -99,11 +99,8 @@ jobs:
 experiences:
   title: Projects
   info:
-    - role: Software Architect
-      time: May 2023 - Nov 2023
-      company: Kingdee China
-    - role: Software Architect
-      time: Nov 2023 - Present
+    - role: Senior Data Engineer (AVP)
+      time: November 2023 - Present
       company: HKEX (Hong Kong Exchanges and Clearing)
       details: |
         Project Name: Enterprise Data Platform
@@ -120,8 +117,21 @@ experiences:
 
           AWS Glue, AWS Lake Formation, AWS EKS, Terraform, HCS DataArts, HCS MRS, HCS CCE
 
+    - role: Software Architect
+      time: May 2023 - November 2023
+      company: Kingdee China
+      details: |
+        Project Name: XiaDie+
+
+        Design the next-generation cloud-native, AI-native product architecture for Kingdee's small and micro enterprise product department, and develop core modules.
+
+        Project Responsibilities:
+          - Overall product architecture design and core module design, including capital management, accounts receivable/payable流水, business analysis, industry benchmarking, intelligent accounting vouchers, automatic tax reporting and other modules.
+          - Responsible for architecture analysis and refactoring of legacy products (inventory management system), enabling the new product to maximize reuse of existing business logic.
+          - Define new product deployment plan.
+          - Establish code standards and unit testing guidelines.
     - role: Associate Director Senior Software Architect
-      time: April 2021 - Dec 2022
+      time: April 2021 - December 2022
       company: CSG Group, Moody's Analytics
       details: |
         Project Name: Risk Compass
@@ -141,7 +151,7 @@ experiences:
           Spring Cloud, MongoDB, PostgreSQL, Redis, Elasticsearch, nodejs, spark, Python pandas & numpy, Scala, Docker, AWS Cloud
 
     - role: Associate Director Senior Software Architect
-      time: Nov 2020 - June 2021
+      time: November 2020 - June 2021
       company: CSG Group, Moody's Analytics
       details: |
         Project Name: Credit View China
@@ -158,7 +168,7 @@ experiences:
 
           Spring Cloud, Kong, POI, AWS Cloud
     - role: Associate Director Senior Software Engineer Mgr
-      time: Mar 2012 - Nov 2020
+      time: March 2012 - November 2020
       company: CSR BU, Moody's Analytics
       details: |
         Project Name: Moody's Add-in for Excel
@@ -180,7 +190,7 @@ experiences:
         As one of the Hackday events series across multiple global offices of MA, it had to follow a few guidelines and standards provided by MAA, and also have local culture characteristics. I had to work closely with people across multipe departments to plan and make this event work.
         And finanally this event was successfully launched. We had 17 teams worked on many intresting POC projects, 5 prizes of different areas were granted to candidate teams. One of POC project finanly went production and became a new product of MA.
     - role: Technique Team Leader
-      time: June 2006 - Mar 2012
+      time: June 2006 - March 2012
       company: Morningstar
       details: |
         Project Name: Morningstar Advisor Workstation
